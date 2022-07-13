@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashifur4
 - 👀 I’m interested in Automation and Machine Learning
 - 🌱 I’m currently learning data structures and algorithms using python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python projects as well as C, arduino, MATLAB projects. 
 - 📫 How to reach me just email me at ashifur.rahman.37@gmail.com
 
 <!---
